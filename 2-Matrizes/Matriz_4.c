@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #define LINHAS 5
 #define COLUNAS 3
+
 main () {
      // declara a matriz
      float matriz[LINHAS][COLUNAS];
