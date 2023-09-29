@@ -1,4 +1,4 @@
-// o programa faz a leitura de uma matriz 5x5 de elementos inteiros, 
+// O programa faz a leitura de uma matriz 5x5 de elementos inteiros, 
 // calcula e apresenta a soma da diagonal principal. 
 // Além disso, apresenta, também, os elementos da matriz:
 
