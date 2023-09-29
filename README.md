@@ -1,1 +1,1 @@
-Programas onde fiz na minha faculdade.
+Programas que eu fiz na faculdade.
