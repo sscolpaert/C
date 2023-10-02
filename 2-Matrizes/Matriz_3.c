@@ -1,6 +1,7 @@
 // O programa faz a leitura de uma matriz 5x5 de elementos inteiros, 
 // calcula e apresenta a soma da diagonal principal. 
 // Além disso, apresenta, também, os elementos da matriz:
+// -Colpaert
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,5 +1,5 @@
 // O programa a seguir armazena 10 elementos reais em um vetor e, depois, apresenta seus valores na tela.
-// -Caerleon
+// -Colpaert
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,5 +1,6 @@
 // Para exemplificarmos a utilização dos procedimentos e funções, abaixo segue o programa da calculadora escrito de forma estruturada ou modular.
 // Observe que a entrada e saída de dados foram transformadas em procedimentos e as operações matemáticas em funções.
+// -Colpaert
 
 #include<stdio.h> 
 #include<stdlib.h>

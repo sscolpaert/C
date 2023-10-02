@@ -1,6 +1,7 @@
 // Um palíndromo é uma palavra, frase ou qualquer outra sequência de caracteres que tenha a propriedade de poder ser lida tanto
 // da direita para a esquerda como da esquerda para a direita.  
 // O programa solicita que o usuário digite uma string, faz a inversão dos caracteres e verifica se a palavra é um palíndromo.
+// -Colpaert
 
 #include <stdio.h>
 #include <stdlib.h>

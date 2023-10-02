@@ -1,5 +1,6 @@
 // o programa faz a leitura de uma matriz 5x3 de elementos reais, calcula e apresenta a média dos valores que estão acima de 20,75; 
 // apresenta, também, os elementos da matriz.
+// -Colpaert
 
 #include <stdio.h>
 #include <stdlib.h>

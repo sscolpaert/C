@@ -1,4 +1,5 @@
-//Neste programa é feita a contagem de todas as vogais existentes em uma string de tamanho 30. Por fim, é mostrada a quantidade de vogais.
+//  Neste programa é feita a contagem de todas as vogais existentes em uma string de tamanho 30. Por fim, é mostrada a quantidade de vogais.
+// -Colpaert
 
 #include <stdio.h>
 #include <stdlib.h>

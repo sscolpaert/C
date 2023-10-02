@@ -1,5 +1,5 @@
 // Um programa com as variáveis p e q como ponteiros para número inteiro.
-// -Caerleon
+// -Colpaert
 
 #include <stdio.h>
 #include <stdlib.h>

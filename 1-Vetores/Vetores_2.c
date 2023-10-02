@@ -2,7 +2,7 @@
 // Construir um vetor B do mesmo tipo e tamanho com os elementos do vetor A multiplicados por 3. 
 // O elemento B[0] recebe o elemento A[0] * 3, o elemento B[1] recebe o elemento A[1] * 3 e assim por diante, até a posição 7 do vetor. 
 // Apresentar os elementos do vetor B.
-// -Caerleon
+// -Colpaert
 
 #include <stdio.h>
 #include <stdlib.h>

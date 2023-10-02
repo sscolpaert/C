@@ -1,4 +1,5 @@
 // Neste programa, a letra “a” é substituída pela letra “i” em uma string de tamanho 15. Por fim, a string alterada é exibida.
+// -Colpaert
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,4 +1,5 @@
 // O programa solicita que o usuário digite uma string e, em seguida, percorre a string inteira, exibindo caractere por caractere.
+// -Colpaert
 
 #include <stdio.h>
 #include <stdlib.h>

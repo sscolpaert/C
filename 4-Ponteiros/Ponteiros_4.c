@@ -1,6 +1,6 @@
 // Uma variável ponteiro armazena o endereço de memória de uma variável n do tipo int. 
 // Em seguida, é feita a divisão de n por 5, sem utilizar o valor de n diretamente.
-// -Caerleon
+// -Colpaert
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,5 +1,6 @@
 // O programa consiste em uma calculadora básica que realiza as operações de adição, subtração, multiplicação e divisão. 
 // Nesse caso, o programa foi criado sem modularização.
+// -Colpaert
 
 #include<stdio.h> 
 #include<stdlib.h>

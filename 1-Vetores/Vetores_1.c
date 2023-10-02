@@ -1,5 +1,6 @@
 // O programa lê 5 notas e armazena-as em um vetor, calcula a média aritmética e apresenta a média e os dados do vetor na tela.
-// -Caerleon
+// -Colpaert
+
 #include <stdio.h>
 #include <stdlib.h>
 #define TAM 5

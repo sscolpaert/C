@@ -1,5 +1,5 @@
 // Um programa que possui uma variável inteira x e um ponteiro px, que contém o endereço de memória de x.
-// -Caerleon
+// -Colpaert
 
 #include <stdio.h>
 #include <stdlib.h>

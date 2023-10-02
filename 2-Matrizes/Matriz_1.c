@@ -1,5 +1,6 @@
 // O programa cria uma matriz 3x4 de valores inteiros e solicita os seus dados ao usuário, 
 // calcula a soma dos elementos da matriz e apresenta os dados da matriz e a soma calculada.
+// -Colpaert
 
 #include <stdio.h>
 #include <stdlib.h>

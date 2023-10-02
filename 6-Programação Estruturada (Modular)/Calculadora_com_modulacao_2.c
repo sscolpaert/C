@@ -1,4 +1,5 @@
 // Para ilustrarmos melhor esta outra forma para estruturarmos o programa, abaixo segue o mesmo exemplo da Calculadora, no qual os módulos são criados após o programa principal.
+// -Colpaert
 
 #include<stdio.h> 
 #include<stdlib.h>

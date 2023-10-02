@@ -1,5 +1,5 @@
 // O programa abaixo contém as variáveis pa e pb como ponteiros para número real (float).
-// -Caerleon
+// -Colpaert
 
 #include <stdio.h>
 #include <stdlib.h>

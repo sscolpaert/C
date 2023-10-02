@@ -1,5 +1,6 @@
 // O enunciado é: Criar um programa que crie e inicialize uma matriz de elementos inteiros de acordo com a tabela abaixo. 
 // Apresentar os elementos da matriz na tela.
+// -Colpaert
 
 #include <stdio.h>
 #include <stdlib.h>

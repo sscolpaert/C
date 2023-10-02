@@ -1,7 +1,8 @@
 // O programa a seguir faz a leitura de dois vetores (denominados A e B) com 20 elementos inteiros. 
 // No vetor C, cada elemento é calculado como a subtração de um elemento do vetor A com um elemento correspondente do vetor B, 
 // ou seja, a operação de processamento é baseada na operação C[I] = A[I] - B[I]. Ao final, os elementos do vetor C são apresentados.
-// -Caerleon
+// -Colpaert
+
 #include <stdio.h>
 #include <stdlib.h>
 #define TAM 20
