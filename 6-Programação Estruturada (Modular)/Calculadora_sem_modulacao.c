@@ -2,9 +2,9 @@
 // Nesse caso, o programa foi criado sem modularização.
 // -Colpaert
 
-#include<stdio.h> 
-#include<stdlib.h>
-#include<conio.h>
+#include <stdio.h> 
+#include <stdlib.h>
+#include <conio.h>
 
 main ()
 {

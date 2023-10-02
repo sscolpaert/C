@@ -2,9 +2,9 @@
 // Observe que a entrada e saída de dados foram transformadas em procedimentos e as operações matemáticas em funções.
 // -Colpaert
 
-#include<stdio.h> 
-#include<stdlib.h>
-#include<conio.h>
+#include <stdio.h> 
+#include <stdlib.h>
+#include <conio.h>
  
 float A, B, R;
  
